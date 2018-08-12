@@ -1,7 +1,5 @@
 # pharmeasy-test
 
-Prototype the following project:
-
 Build an application where the User’s data can be shared only if they approve it.
 
 There are 3 types of users/roles:

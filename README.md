@@ -1,4 +1,4 @@
-# pharmeasy-test
+# Pharmeasy-test
 
 Build an application where the User’s data can be shared only if they approve it.
 
